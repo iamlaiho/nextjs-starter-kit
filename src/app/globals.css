@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Add custom design tokens here, e.g.: */
+  /* --color-brand: #6366f1; */
+}

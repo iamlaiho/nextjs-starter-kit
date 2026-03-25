@@ -8,6 +8,7 @@
       "Bash(git reset:*)",
       "Bash(git push:*)",
       "Bash(git rebase:*)",
+      "Bash(gh pr create:*)",
       "Bash(pnpm build:*)",
       "Bash(pnpm lint:*)",
       "Bash(pnpm exec:*)",

@@ -6,6 +6,7 @@
       "Bash(git restore:*)",
       "Bash(git rm:*)",
       "Bash(git reset:*)",
+      "Bash(git checkout:*)",
       "Bash(git fetch:*)",
       "Bash(git push:*)",
       "Bash(git rebase:*)",
